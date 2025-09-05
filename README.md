@@ -1,0 +1,2 @@
+# geometria-basica
+code practicing 
